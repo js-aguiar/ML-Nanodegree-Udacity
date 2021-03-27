@@ -21,4 +21,9 @@ The review is than preprocessed using a Lambda function that converts the text t
 Finally, the lambda function acess an LSTM Model in SageMaker that does the predictions.
 
 
+### Plagiarism Detector
+
+Work in progress
+
+
 
